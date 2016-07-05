@@ -1,0 +1,79 @@
+.img-sprite, .header .flags__flag1, .header .flags__flag2, .header .flags__flag3, .header .flags__flag4, .header .flags__flag5, .header .flags__flag6, .header_logo {
+  background-image: url('../img/../img-s7f2f0ec6e8.png');
+  background-repeat: no-repeat;
+}
+
+.header {
+  padding: 12px 34px 0 28px;
+}
+.header .contacts {
+  float: right;
+}
+.header .contacts_item {
+  font-size: 12px;
+  padding-bottom: 5px;
+}
+.header .contacts_link {
+  color: #128aa7;
+}
+.header .contacts .kontakt__bolt {
+  font-weight: bold;
+}
+.header .flags {
+  float: right;
+  clear: both;
+}
+.header .flags_item {
+  display: inline-block;
+  margin: 36px 0 10px 15px;
+}
+.header .flags_link {
+  display: block;
+  text-align: center;
+  font-size: 10px;
+  color: #128aa7;
+  white-space: nowrap;
+}
+.header .flags__flag1 {
+  background-position: -283px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header .flags__flag2 {
+  background-position: -325px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header .flags__flag3 {
+  background-position: -367px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header .flags__flag4 {
+  background-position: -409px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header .flags__flag5 {
+  background-position: -451px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header .flags__flag6 {
+  background-position: -493px 0;
+  width: 42px;
+  padding: 42px 0 0 0;
+}
+.header_logo {
+  background-position: 0 0;
+  display: block;
+  width: 283px;
+  padding-top: 165px;
+}
+.header_logname {
+  width: 125px;
+  display: block;
+  margin: -67px 0 0 72px;
+  font-size: 12px;
+  color: #128aa7;
+}
